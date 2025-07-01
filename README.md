@@ -1,4 +1,4 @@
-# Geometry Calculator 📐
+# Geometry Calculator 📐 (Command Line Interface (CLI) version)
 
 A simple Java console app that lets users **compute areas and volumes** of common 2-D and 3-D shapes in a menu-driven loop.  
 Great as an OOP practice project to showcase on your GitHub portfolio.
